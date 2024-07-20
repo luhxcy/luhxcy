@@ -6,7 +6,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 - [![Discord Presence](https://lanyard.cnrad.dev/api/245139741606019072)](https://discord.com/users/245139741606019072)
-<!---
-luhxcy/luhxcy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
